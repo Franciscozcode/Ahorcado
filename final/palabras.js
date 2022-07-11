@@ -1,0 +1,1 @@
+const words = ["Alura","Python","JavaScript","herencia"]
